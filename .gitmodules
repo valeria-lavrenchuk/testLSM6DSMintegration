@@ -1,0 +1,9 @@
+[submodule "driver/LSM6DSM"]
+	path = driver/LSM6DSM
+	url = https://github.com/STMicroelectronics/lsm6dsm-pid
+[submodule "driver/STM32CubeF4"]
+	path = driver/STM32CubeF4
+	url = https://github.com/STMicroelectronics/STM32CubeF4
+[submodule "driver/STM32CubeF4Dr"]
+	path = driver/STM32CubeF4Dr
+	url = https://github.com/STMicroelectronics/x-cube-azrtos-f4/
